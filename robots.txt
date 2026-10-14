@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://yuosefdesoukymohamed-tech.github.io/yusefjoo/sitemap.xml
+Sitemap: https://yuosejoo2010-sys.github.io/yusufdessouky.github.io/sitemap.xml
